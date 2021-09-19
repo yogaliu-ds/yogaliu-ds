@@ -1,5 +1,5 @@
-Hi, I’m Yoga Liu, a graduate student studying in Japan.
-I'm interested in data science and working on Kaggle competitions.
+- Hi, I’m Yoga Liu, a graduate student studying in Japan.
+- I'm interested in data science and working on Kaggle competitions.
 
 
 <!---
